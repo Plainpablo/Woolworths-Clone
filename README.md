@@ -1,5 +1,5 @@
 
- ![woolworths-financial-services-pty-ltd-logo-vector](https://github.com/Plainpablo/Woolworths-Clone/assets/109858262/e98b769f-979f-4eef-8648-9b6a25ec1ba8)
+![woolworths-financial-services-pty-ltd-logo-vector](https://github.com/Plainpablo/Woolworths-Clone/assets/109858262/78a7757c-7106-489a-a64b-3666b77b8fc0)
 
 
 <h2>About the project</h2>
